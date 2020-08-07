@@ -8,7 +8,7 @@ Super + H or L resizes the master area
 
 Use Super + Arrow up/down keys to switch window focus
 
-Super+Tan switches between your two most recent tags
+Super+Tab switches between your two most recent tags
 
 Click on the current window name in the status bar to minimize it
 Click on a window title in the status bar to switch to it
@@ -21,7 +21,7 @@ There's an alt-tab menu
 Use Super+A to bring up instantASSIST, then press a key to activate one of the functions
 Super + Ctrl + Q brings up the shutdown menu. Enter Y to shutdown, R to reboot and S to sign out
 Super + Ctrl + L locks the screen. Enter your password and press enter to unlock it again
-The lock screen can be quite entertaining at times...
+Did you know that the lock screen can tell dad jokes?
 
 Super + Space opens a command runner menu
 middle click on your desktop to bring up a commmand runner menu
@@ -55,3 +55,5 @@ Keep up to date with the latest instantOS news at bit.ly/paperbenniyt
 you can ask for support at reddit.com/r/instantos
 
 Hold shift while dragging a window to get window snapping like on Windows
+
+support development at patreon.com/paperbenni
