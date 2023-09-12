@@ -50,7 +50,7 @@ Right clicking on the power button locks the screen
 Middle clicking on the status text opens a terminal
 Scrolling with the mouse wheel while hovering over the window title changes focus
 
-you can ask for support at discord.io/instantos
+you can ask for support at dsc.gg/instantos
 Keep up to date with the latest instantOS news at bit.ly/paperbenniyt
 you can ask for support at reddit.com/r/instantos
 
